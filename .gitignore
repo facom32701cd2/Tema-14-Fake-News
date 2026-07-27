@@ -4,8 +4,8 @@ CLAUDE.md
 referências
 entregas/**/*.md
 entregas/**/*.png
-entregas/004 - Padrões frequentes e anomalias/anomalias_consenso.csv
-entregas/004 - Padrões frequentes e anomalias/regras_associacao.csv
+entregas/004 - Padrões Frequentes e Detecção de Anomalias/anomalias_consenso.csv
+entregas/004 - Padrões Frequentes e Detecção de Anomalias/regras_associacao.csv
 
 # OS/editor
 .DS_Store
